@@ -1,1 +1,1 @@
-# Kubernetes Commands for Practice!!
+# Kubernetes Commands for Practice!
